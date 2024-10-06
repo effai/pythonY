@@ -87,9 +87,6 @@
 #
 # print(foo("Hello"))
 
-import django
-# venv -- Віртуальне середовище
-
 
 
 
